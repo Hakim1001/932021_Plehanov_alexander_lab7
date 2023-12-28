@@ -1,0 +1,23 @@
+body{
+width:100vh;
+height: 40vh;
+}
+div.printBlock{
+
+padding-right:5px;
+}
+.printBlock div {
+ display: inline;
+}
+.Class_button_Kub button{
+  width: 5em;
+    cursor: pointer;
+}
+.Class_button_Сircle button{
+    width: 5em;
+    cursor: pointer;
+}
+.Class_button_Сircle button{
+    width: 5em;
+    cursor: pointer;
+}
